@@ -1,0 +1,20 @@
+{
+  "/quartz_template/Daily_Notes/2023-05-22": {
+    "title": "2023-05-22",
+    "content": "## Example Notes\n- a note\n- a note\n\n[notes](obsidian://open?vault=content\u0026file=quartz_template%2FExample_Notes%2FExample%20Notes)\n",
+    "lastmodified": "2023-05-22T22:26:18.115937573Z",
+    "tags": []
+  },
+  "/quartz_template/Example_Notes/Example-Notes": {
+    "title": "Example Notes",
+    "content": "#notes\n\n## Heading\n",
+    "lastmodified": "2023-05-22T22:24:07.129659219Z",
+    "tags": []
+  },
+  "/quartz_template/README": {
+    "title": "README",
+    "content": "# quartz_template\nTesting Quartz\n",
+    "lastmodified": "2023-05-22T22:11:08.700466013Z",
+    "tags": []
+  }
+}
