@@ -9,3 +9,5 @@ date modified: Tuesday, May 23rd 2023, 10:46:41 am
 ```
 just a test
 ```
+
+[[Example_Notes/Example Notes|Example Notes]]
