@@ -1,3 +1,9 @@
+---
+title: "Example Note"
+tags:
+- Daily-Notes
+---
+
 #notes
 
 ## Heading
