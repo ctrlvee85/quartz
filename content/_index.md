@@ -6,7 +6,7 @@ date created: Tuesday, May 23rd 2023, 10:46:07 am
 date modified: Tuesday, May 23rd 2023, 1:47:13 pm
 ---
 
-# Test Documentation Page
+## Test Documentation Page
 
 
 ### This page uses [Quartz](https://github.com/jackyzha0/quartz) in order to serve an Obsidian vault directly through GitHub pages. GitHub actions will automatically update this page after a push to the 'hugo' branch. Some additional modifications have been made as compared to the Quartz documentation. 
