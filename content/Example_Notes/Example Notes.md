@@ -6,7 +6,9 @@ tags:
 
 #notes
 
-## Heading
+## An Exmaple note
+- content 
+
 
 
 [[_index.md]]
