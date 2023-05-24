@@ -1,3 +1,11 @@
+---
+aliases: 
+tags: 
+- python
+title: "pyguide"
+date created: Monday, October 10th 2022, 10:02:10 am
+date modified: Wednesday, May 24th 2023, 10:33:23 am
+---
 <!--
 AUTHORS:
 Prefer only GitHub-flavored Markdown in external text.
@@ -3457,3 +3465,5 @@ they go to read it. Avoid this.
 This work, is a derivative of [Google Python Style Guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md) by Google, used under [CC BY](https://creativecommons.org/licenses/by/3.0/). This document is licensed under [CC BY](https://creativecommons.org/licenses/by/3.0/) by Gogo.
 
 <a rel="license" href="https://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a>
+
+[[_index]]
